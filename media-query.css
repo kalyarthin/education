@@ -1,0 +1,100 @@
+@media only screen and (max-width:770px){
+    #header{
+        background-image: none;
+    }
+    .container{
+    margin-left: 50px;
+    margin-right: 50px;
+ 
+}
+.logo{
+    margin-top: 27px;
+    width: 70px;
+
+}
+.header-text{
+   
+    margin-top: 100px;
+}
+h1{
+font-size: 25px;
+}
+    #menuBtn{
+        width: 20px;
+       
+        right: 30px;
+       
+       }
+         /* about  */
+         #about{
+            padding: 100px 0;
+         }
+       #offer{
+        padding: 0;
+   
+       }
+       .common-btn{
+    padding: 10px 16px;
+  
+}
+.social-icons img{
+ 
+    width: 18px;
+    margin: 0 auto 10px;
+
+}
+
+.about-left-col,.about-right-col{
+
+flex-basis: 100%;
+
+
+}
+ .about-text{
+       
+      
+        margin: 50px 60px 0;
+        display: inline-block;
+    }
+     .about-text h2{
+         
+          font-size: 20px;
+          
+     }
+     .feature-col{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+     }
+     .course-left-col{
+    flex-basis: 100%;
+}
+.course-right-col{
+    flex-basis: 100%;
+}
+.course-right-col img{
+width: 400px;
+margin-top: 70px;
+
+}
+
+.contact-left-col,.contact-right-col{
+flex-basis: 100%;
+
+}
+.contact-right-col img{
+
+    margin-top: 50px;
+}
+.footer-left-col,.footer-right-col{
+    flex-basis: 100%;
+  
+}
+.link-title{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+.footer-logo img{
+    width: 45px;
+}
+}
+
